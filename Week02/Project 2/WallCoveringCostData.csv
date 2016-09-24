@@ -1,0 +1,42 @@
+Category,Covering Type,Brand/Model,Units,Coverage (Sq Ft),Price per unit (USD),Units Per Hour,Wage per hour
+Materials,Concrete Board,Durock,sheet,15,10.97,,
+Labor,Concrete Board,,,,,6,25.75
+Materials,Gypsum Board,Sheetrock 3/8 inch,sheet,32,10.78,,
+Materials,Gypsum Board,Sheetrock 1/2 inch,sheet,32,10.48,,
+Materials,Gypsum Board,Sheetrock 5/8 inch,sheet,32,11.34,,
+Materials,Gypsum Board,Sheetrock Large 1/2 inch,sheet,48,16.96,,
+Labor,Gypsum Board,,,,,4,24.75
+Materials,Paint,Premium,gallon,350,27.48,,
+Materials,Paint,Premium Ultra,gallon,350,31.27,,
+Materials,Paint,Premium Plus Ultra,gallon,350,33.23,,
+Materials,Paint,Marquee,gallon,350,39.87,,
+Materials,Paint,Primer,gallon,200,21.98,,
+Labor,Paint,,,,,0.75,19.25
+Materials,Panel,Fort Niagara,each,32,9.96,,
+Materials,Panel,Corning,each,8,65.75,,
+Materials,Panel,Mirror,each,15,52.98,,
+Materials,Panel,Lexan,each,48,106.55,,
+Materials,Plank,Eucalyptus,box,36,74.87,,
+Materials,Plank,Western Cedar,box,14,17.98,,
+Labor,Panel,,,,,3,26.33
+Labor,Plank,,,,,4,27.33
+Materials,Plaster,Rock Hard,bag,96,15.98,,
+Labor,Plaster,,,,,1,29.75
+Materials,Tile,Marazzi,each,1,1.98,,
+Materials,Tile,Montagna,each,1,2.49,,
+Materials,Tile,Florida,each,1,2.99,,
+Materials,Tile,Marble Mosaic,each,1,9.97,,
+Materials,Tile,Portland,each,1,0.89,,
+Labor,Tile,,,,,12,31.25
+Materials,Wallpaper,ForTheWall,roll,56,24.98,,
+Materials,Wallpaper,Floral,roll,56,21.96,,
+Materials,Wallpaper,Crest,roll,56,25.96,,
+Materials,Wallpaper,Yorktown,roll,57,46.83,,
+Materials,Wallpaper,InYaHome,roll,28,24.95,,
+Materials,Wallpaper,Rustic Brick,roll,57,49.73,,
+Materials,Wallpaper,Cloud,roll,61,78.26,,
+Materials,Wallpaper,Autumn,roll,63,117.98,,
+Labor,Wallpaper,,,,,3,27.85
+Materials,Insulation,Pink Fiberglass R-13,roll,42,14.98,,
+Materials,Insulation,Pink Fiberglass R-30,roll,42,16.48,,
+Labor,Insulation,,,,,6,17.75
